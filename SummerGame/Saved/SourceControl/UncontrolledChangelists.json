@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Norah/Documents/GitHub/SummerGame2026-Temp/SummerGame/Content/Blueprints/UI/WBP_UI_Parent.uasset",
+				"C:/Users/Norah/Documents/GitHub/SummerGame2026-Temp/SummerGame/Content/Blueprints/UI/WBP_CollapsibleUI_Parent.uasset",
 				"D:/Games/SummerGame2026-Temp/SummerGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
