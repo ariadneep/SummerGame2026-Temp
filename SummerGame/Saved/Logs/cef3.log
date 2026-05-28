@@ -1,19 +1,12 @@
-[29900:19060:0528/110157.418:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[29900:2944:0528/110157.470:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[29900:19060:0528/110157.516:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[19412:30288:0528/110203.570:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-45D49502A8D679CEF02F3BBE4760BFCD will be ignored
-[29900:19060:0528/111115.448:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111130.457:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111135.461:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111226.083:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111231.083:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111241.090:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111256.093:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111351.138:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111356.140:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111401.145:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111416.145:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111421.145:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/111501.163:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[29900:19060:0528/113830.514:ERROR:device_event_log_impl.cc(196)] [11:38:30.450] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[29900:19060:0528/122412.158:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[24644:33212:0528/123541.341:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[24644:33212:0528/123541.482:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[24644:33212:0528/123541.700:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[24644:15228:0528/123557.679:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24644:15228:0528/123557.681:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24644:15228:0528/123557.683:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24644:15228:0528/123557.684:WARNING:leveldb_database.cc(141)] Unable to open D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24644:15228:0528/123559.981:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24644:15228:0528/123559.986:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[24644:33212:0528/123600.288:ERROR:device_event_log_impl.cc(196)] [12:35:59.967] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[19588:17236:0528/123600.960:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4B1F9DCF2C60E7AAC83DD0581296EADE will be ignored
+[24644:33212:0528/124637.304:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

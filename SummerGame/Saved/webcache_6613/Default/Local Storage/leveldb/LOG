@@ -1,3 +1,2 @@
-2026/05/28-11:01:57.690 3274 Reusing MANIFEST D:\Games\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/28-11:01:57.701 3274 Recovering log #3
-2026/05/28-11:01:57.703 3274 Reusing old log D:\Games\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/28-12:35:41.820 7a28 Creating DB D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/05/28-12:35:41.843 7a28 Reusing MANIFEST D:\Github\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
