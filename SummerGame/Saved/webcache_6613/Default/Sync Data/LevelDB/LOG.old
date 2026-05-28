@@ -1,2 +1,3 @@
-2026/05/26-23:02:46.601 5548 Creating DB D:\Games\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/05/26-23:02:46.743 5548 Reusing MANIFEST D:\Games\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/27-16:56:44.208 4334 Reusing MANIFEST D:\Games\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/27-16:56:44.210 4334 Recovering log #3
+2026/05/27-16:56:44.210 4334 Reusing old log D:\Games\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 

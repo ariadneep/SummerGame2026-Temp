@@ -1,5 +1,3 @@
-2026/05/27-13:40:05.766 be4 Log #3: 2 ops saved to Table #4 OK
-2026/05/27-13:40:05.777 be4 Archiving C:\Users\Norah\Documents\GitHub\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/05/27-13:40:05.777 be4 Table #4: 2 entries OK
-2026/05/27-13:40:05.779 be4 Archiving C:\Users\Norah\Documents\GitHub\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/05/27-13:40:05.790 be4 **** Repaired leveldb C:\Users\Norah\Documents\GitHub\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/05/27-16:56:44.223 4264 Reusing MANIFEST D:\Games\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/05/27-16:56:44.232 4264 Recovering log #6
+2026/05/27-16:56:44.232 4264 Reusing old log D:\Games\SummerGame2026-Temp\SummerGame\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
